@@ -1,0 +1,457 @@
+[18-Aug-2025 05:32:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[18-Aug-2025 05:32:59 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[18-Aug-2025 05:32:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[18-Aug-2025 05:32:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[18-Aug-2025 05:32:59 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[18-Aug-2025 05:32:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[18-Aug-2025 05:33:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[18-Aug-2025 05:33:02 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[18-Aug-2025 05:33:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[18-Aug-2025 05:33:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[18-Aug-2025 05:33:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[18-Aug-2025 05:33:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[18-Aug-2025 05:33:10 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[18-Aug-2025 05:33:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[18-Aug-2025 05:33:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[18-Aug-2025 05:33:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[18-Aug-2025 05:34:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[18-Aug-2025 05:34:15 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[18-Aug-2025 05:34:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[18-Aug-2025 05:34:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[18-Aug-2025 05:34:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[21-Aug-2025 04:34:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[21-Aug-2025 04:34:47 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[21-Aug-2025 04:34:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[21-Aug-2025 04:34:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[21-Aug-2025 04:34:47 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[21-Aug-2025 04:34:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[21-Aug-2025 04:34:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[21-Aug-2025 04:34:52 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[21-Aug-2025 04:34:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[21-Aug-2025 04:34:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/certificate_all.php on line 69
+[21-Aug-2025 04:34:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[21-Aug-2025 04:34:57 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[21-Aug-2025 04:34:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[21-Aug-2025 04:34:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/category.php on line 68
+[21-Aug-2025 04:35:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[21-Aug-2025 04:35:03 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[21-Aug-2025 04:35:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[21-Aug-2025 04:35:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/certificate_web.php on line 69
+[21-Aug-2025 04:35:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[21-Aug-2025 04:35:38 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[21-Aug-2025 04:35:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[21-Aug-2025 04:35:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/certificate_web.php on line 69
+[21-Aug-2025 04:35:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[21-Aug-2025 04:35:42 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[21-Aug-2025 04:35:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[21-Aug-2025 04:35:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/category.php on line 68
+[21-Aug-2025 04:35:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[21-Aug-2025 04:35:57 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[21-Aug-2025 04:35:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[25-Aug-2025 06:03:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[25-Aug-2025 06:03:04 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[25-Aug-2025 06:03:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[25-Aug-2025 06:03:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[25-Aug-2025 06:03:04 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[25-Aug-2025 06:03:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[25-Aug-2025 06:03:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[25-Aug-2025 06:03:08 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[25-Aug-2025 06:03:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[25-Aug-2025 06:03:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[25-Aug-2025 06:03:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[26-Aug-2025 10:35:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[26-Aug-2025 10:35:36 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[26-Aug-2025 10:35:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[26-Aug-2025 10:35:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[26-Aug-2025 10:35:36 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[26-Aug-2025 10:35:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[26-Aug-2025 10:35:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[26-Aug-2025 10:35:39 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[26-Aug-2025 10:35:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[26-Aug-2025 10:35:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[26-Aug-2025 10:35:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[26-Aug-2025 10:50:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[26-Aug-2025 10:50:36 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[26-Aug-2025 10:50:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[26-Aug-2025 10:50:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[26-Aug-2025 10:50:36 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[26-Aug-2025 10:50:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[26-Aug-2025 10:50:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[26-Aug-2025 10:50:40 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[26-Aug-2025 10:50:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[26-Aug-2025 10:50:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[26-Aug-2025 10:50:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[28-Aug-2025 08:57:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[28-Aug-2025 08:57:25 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[28-Aug-2025 08:57:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[28-Aug-2025 08:57:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[28-Aug-2025 08:57:25 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[28-Aug-2025 08:57:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[28-Aug-2025 08:57:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[28-Aug-2025 08:57:27 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[28-Aug-2025 08:57:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[28-Aug-2025 08:57:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[28-Aug-2025 08:57:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[28-Aug-2025 10:06:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[28-Aug-2025 10:06:50 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[28-Aug-2025 10:06:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[28-Aug-2025 10:06:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[28-Aug-2025 10:06:50 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[28-Aug-2025 10:06:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[28-Aug-2025 10:06:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[28-Aug-2025 10:06:52 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[28-Aug-2025 10:06:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[28-Aug-2025 10:06:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[28-Aug-2025 10:06:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[15-Sep-2025 11:18:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[15-Sep-2025 11:18:27 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[15-Sep-2025 11:18:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[15-Sep-2025 11:18:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[15-Sep-2025 11:18:27 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[15-Sep-2025 11:18:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[15-Sep-2025 11:18:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[15-Sep-2025 11:18:29 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[15-Sep-2025 11:18:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[15-Sep-2025 11:18:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[15-Sep-2025 11:18:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[15-Sep-2025 11:19:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[15-Sep-2025 11:19:10 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[15-Sep-2025 11:19:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[15-Sep-2025 11:19:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[15-Sep-2025 11:19:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[15-Sep-2025 11:21:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[15-Sep-2025 11:21:09 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[15-Sep-2025 11:21:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[15-Sep-2025 11:21:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[15-Sep-2025 11:21:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[15-Sep-2025 11:22:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[15-Sep-2025 11:22:18 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[15-Sep-2025 11:22:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[15-Sep-2025 11:22:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[15-Sep-2025 11:22:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[15-Sep-2025 11:23:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[15-Sep-2025 11:23:57 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[15-Sep-2025 11:23:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[15-Sep-2025 11:23:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[15-Sep-2025 11:23:57 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[15-Sep-2025 11:23:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[15-Sep-2025 11:24:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[15-Sep-2025 11:24:01 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[15-Sep-2025 11:24:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[15-Sep-2025 11:24:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[15-Sep-2025 11:24:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[23-Sep-2025 05:59:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[23-Sep-2025 05:59:58 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[23-Sep-2025 05:59:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[23-Sep-2025 05:59:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[23-Sep-2025 05:59:58 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[23-Sep-2025 05:59:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[23-Sep-2025 06:00:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[23-Sep-2025 06:00:00 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[23-Sep-2025 06:00:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[23-Sep-2025 06:00:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[23-Sep-2025 06:00:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[29-Sep-2025 11:19:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[29-Sep-2025 11:19:32 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[29-Sep-2025 11:19:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[29-Sep-2025 11:19:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[29-Sep-2025 11:19:32 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[29-Sep-2025 11:19:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[29-Sep-2025 11:19:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[29-Sep-2025 11:19:51 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[29-Sep-2025 11:19:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[29-Sep-2025 11:19:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/emp_list_ctp.php on line 68
+[29-Sep-2025 11:19:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[29-Sep-2025 11:19:53 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[29-Sep-2025 11:19:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[29-Sep-2025 11:19:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/emp_list.php on line 68
+[29-Sep-2025 11:25:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[29-Sep-2025 11:25:10 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[29-Sep-2025 11:25:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[29-Sep-2025 11:25:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[29-Sep-2025 11:25:10 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[29-Sep-2025 11:25:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[29-Sep-2025 11:25:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[29-Sep-2025 11:25:12 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[29-Sep-2025 11:25:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[29-Sep-2025 11:25:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[29-Sep-2025 11:25:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[30-Sep-2025 09:55:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[30-Sep-2025 09:55:30 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[30-Sep-2025 09:55:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[30-Sep-2025 09:55:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[30-Sep-2025 09:55:30 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[30-Sep-2025 09:55:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[30-Sep-2025 09:55:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[30-Sep-2025 09:55:36 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[30-Sep-2025 09:55:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[30-Sep-2025 09:55:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[30-Sep-2025 09:55:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[30-Sep-2025 10:49:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[30-Sep-2025 10:49:52 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[30-Sep-2025 10:49:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[30-Sep-2025 10:49:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[30-Sep-2025 10:49:52 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[30-Sep-2025 10:49:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[30-Sep-2025 10:49:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[30-Sep-2025 10:49:54 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[30-Sep-2025 10:49:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[30-Sep-2025 10:49:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[30-Sep-2025 10:49:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[30-Sep-2025 10:50:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[30-Sep-2025 10:50:05 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[30-Sep-2025 10:50:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[30-Sep-2025 10:50:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[30-Sep-2025 10:50:05 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[30-Sep-2025 10:50:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[30-Sep-2025 12:54:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[30-Sep-2025 12:54:07 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[30-Sep-2025 12:54:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[30-Sep-2025 12:54:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[30-Sep-2025 12:54:07 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[30-Sep-2025 12:54:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[30-Sep-2025 12:54:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[30-Sep-2025 12:54:09 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[30-Sep-2025 12:54:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[30-Sep-2025 12:54:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[30-Sep-2025 12:54:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[01-Oct-2025 13:35:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[01-Oct-2025 13:35:52 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[01-Oct-2025 13:35:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[01-Oct-2025 13:35:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[01-Oct-2025 13:35:52 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[01-Oct-2025 13:35:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[01-Oct-2025 13:35:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[01-Oct-2025 13:35:57 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[01-Oct-2025 13:35:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[01-Oct-2025 13:35:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[01-Oct-2025 13:35:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[05-Oct-2025 09:30:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[05-Oct-2025 09:30:22 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[05-Oct-2025 09:30:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[05-Oct-2025 09:30:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[05-Oct-2025 09:30:22 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[05-Oct-2025 09:30:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[05-Oct-2025 09:30:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[05-Oct-2025 09:30:23 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[05-Oct-2025 09:30:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[05-Oct-2025 09:30:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[05-Oct-2025 09:30:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[06-Oct-2025 06:11:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[06-Oct-2025 06:11:13 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[06-Oct-2025 06:11:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[06-Oct-2025 06:11:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[06-Oct-2025 06:11:13 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[06-Oct-2025 06:11:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[06-Oct-2025 06:11:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[06-Oct-2025 06:11:15 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[06-Oct-2025 06:11:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[06-Oct-2025 06:11:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[06-Oct-2025 06:11:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[06-Oct-2025 08:50:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[06-Oct-2025 08:50:21 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[06-Oct-2025 08:50:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[06-Oct-2025 08:50:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[06-Oct-2025 08:50:21 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[06-Oct-2025 08:50:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[06-Oct-2025 08:50:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[06-Oct-2025 08:50:24 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[06-Oct-2025 08:50:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[06-Oct-2025 08:50:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[06-Oct-2025 08:50:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[06-Oct-2025 08:50:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[06-Oct-2025 08:50:46 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[06-Oct-2025 08:50:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[06-Oct-2025 08:50:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/file.php on line 73
+[06-Oct-2025 08:50:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[06-Oct-2025 08:50:49 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[06-Oct-2025 08:50:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[06-Oct-2025 08:50:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[06-Oct-2025 08:50:51 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[06-Oct-2025 08:50:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[06-Oct-2025 08:50:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/file.php on line 73
+[06-Oct-2025 08:50:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[06-Oct-2025 08:50:58 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[06-Oct-2025 08:50:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[06-Oct-2025 08:50:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[06-Oct-2025 08:50:58 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[06-Oct-2025 08:50:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[06-Oct-2025 08:51:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[06-Oct-2025 08:51:05 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[06-Oct-2025 08:51:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[06-Oct-2025 08:51:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/report-by-category.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/report-by-category.php on line 29
+[06-Oct-2025 08:51:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[06-Oct-2025 08:51:10 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[06-Oct-2025 08:51:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[06-Oct-2025 08:51:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/emp_list.php on line 68
+[06-Oct-2025 08:51:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[06-Oct-2025 08:51:13 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[06-Oct-2025 08:51:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[06-Oct-2025 08:51:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[06-Oct-2025 08:51:19 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[06-Oct-2025 08:51:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[06-Oct-2025 08:51:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/file.php on line 73
+[06-Oct-2025 08:51:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[06-Oct-2025 08:51:31 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[06-Oct-2025 08:51:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[06-Oct-2025 08:51:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[06-Oct-2025 08:51:31 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[06-Oct-2025 08:51:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[06-Oct-2025 08:51:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[06-Oct-2025 08:51:32 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[06-Oct-2025 08:51:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[06-Oct-2025 08:51:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[06-Oct-2025 08:51:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[11-Oct-2025 04:18:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[11-Oct-2025 04:18:01 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[11-Oct-2025 04:18:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[11-Oct-2025 04:18:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[11-Oct-2025 04:18:01 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[11-Oct-2025 04:18:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[11-Oct-2025 04:18:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[11-Oct-2025 04:18:03 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[11-Oct-2025 04:18:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[11-Oct-2025 04:18:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[11-Oct-2025 04:18:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[02-Nov-2025 03:45:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[02-Nov-2025 03:45:38 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[02-Nov-2025 03:45:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[02-Nov-2025 03:45:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[02-Nov-2025 03:45:38 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[02-Nov-2025 03:45:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[02-Nov-2025 03:45:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[02-Nov-2025 03:45:41 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[02-Nov-2025 03:45:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[02-Nov-2025 03:45:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[02-Nov-2025 03:45:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[06-Nov-2025 10:36:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'elaeltdc_jubo_48_db.dealer' doesn't exist in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php:72
+Stack trace:
+#0 /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php(72): mysqli_query()
+#1 /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/header.php(9): include('/home/elaeltdc/...')
+#2 /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/index.php(2): include('/home/elaeltdc/...')
+#3 {main}
+  thrown in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 72
+[06-Nov-2025 10:36:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'elaeltdc_jubo_48_db.dealer' doesn't exist in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php:72
+Stack trace:
+#0 /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php(72): mysqli_query()
+#1 /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/header.php(9): include('/home/elaeltdc/...')
+#2 /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/index.php(2): include('/home/elaeltdc/...')
+#3 {main}
+  thrown in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 72
+[06-Nov-2025 10:39:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'elaeltdc_jubo_48_db.dealer' doesn't exist in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php:72
+Stack trace:
+#0 /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php(72): mysqli_query()
+#1 /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/header.php(9): include('/home/elaeltdc/...')
+#2 /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/index.php(2): include('/home/elaeltdc/...')
+#3 {main}
+  thrown in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 72
+[06-Nov-2025 10:39:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'elaeltdc_jubo_48_db.dealer' doesn't exist in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php:72
+Stack trace:
+#0 /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php(72): mysqli_query()
+#1 /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/header.php(9): include('/home/elaeltdc/...')
+#2 /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/index.php(2): include('/home/elaeltdc/...')
+#3 {main}
+  thrown in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 72
+[06-Nov-2025 10:40:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'elaeltdc_jubo_48_db.dealer' doesn't exist in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php:72
+Stack trace:
+#0 /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php(72): mysqli_query()
+#1 /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/header.php(9): include('/home/elaeltdc/...')
+#2 /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/index.php(2): include('/home/elaeltdc/...')
+#3 {main}
+  thrown in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 72
+[06-Nov-2025 10:41:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'elaeltdc_jubo_48_db.dealer' doesn't exist in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php:72
+Stack trace:
+#0 /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php(72): mysqli_query()
+#1 /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/header.php(9): include('/home/elaeltdc/...')
+#2 /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/index.php(2): include('/home/elaeltdc/...')
+#3 {main}
+  thrown in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 72
+[06-Nov-2025 10:46:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'elaeltdc_jubo_48_db.dealer' doesn't exist in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php:72
+Stack trace:
+#0 /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php(72): mysqli_query()
+#1 /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/header.php(9): include('/home/elaeltdc/...')
+#2 /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/index.php(2): include('/home/elaeltdc/...')
+#3 {main}
+  thrown in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 72
+[06-Nov-2025 10:51:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'elaeltdc_jubo_48_db.dealer' doesn't exist in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php:72
+Stack trace:
+#0 /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php(72): mysqli_query()
+#1 /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/header.php(9): include('/home/elaeltdc/...')
+#2 /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/index.php(2): include('/home/elaeltdc/...')
+#3 {main}
+  thrown in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 72
+[06-Nov-2025 11:44:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[06-Nov-2025 11:44:13 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[06-Nov-2025 11:44:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[06-Nov-2025 11:44:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[06-Nov-2025 11:44:13 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[06-Nov-2025 11:44:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[09-Nov-2025 04:46:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[09-Nov-2025 04:46:37 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[09-Nov-2025 04:46:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[09-Nov-2025 04:46:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[09-Nov-2025 04:46:37 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[09-Nov-2025 04:46:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[09-Nov-2025 04:46:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[09-Nov-2025 04:46:38 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[09-Nov-2025 04:46:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[09-Nov-2025 04:46:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[09-Nov-2025 04:46:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[11-Nov-2025 08:31:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[11-Nov-2025 08:31:33 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[11-Nov-2025 08:31:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[11-Nov-2025 08:31:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[11-Nov-2025 08:31:33 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[11-Nov-2025 08:31:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[11-Nov-2025 08:31:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[11-Nov-2025 08:31:34 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[11-Nov-2025 08:31:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[11-Nov-2025 08:31:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[11-Nov-2025 08:31:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[18-Feb-2026 05:18:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[18-Feb-2026 05:18:15 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[18-Feb-2026 05:18:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[18-Feb-2026 05:18:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[18-Feb-2026 05:18:15 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[18-Feb-2026 05:18:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[18-Feb-2026 05:18:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[18-Feb-2026 05:18:27 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[18-Feb-2026 05:18:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[18-Feb-2026 05:18:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[18-Feb-2026 05:18:29 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[18-Feb-2026 05:18:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[18-Feb-2026 05:18:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/file.php on line 73
+[18-Feb-2026 05:18:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[18-Feb-2026 05:18:39 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[18-Feb-2026 05:18:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[18-Feb-2026 05:18:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[18-Feb-2026 05:18:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[24-Feb-2026 10:26:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[24-Feb-2026 10:26:37 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[24-Feb-2026 10:26:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[24-Feb-2026 10:26:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[24-Feb-2026 10:26:37 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[24-Feb-2026 10:26:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[24-Feb-2026 10:26:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[24-Feb-2026 10:26:39 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[24-Feb-2026 10:26:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[24-Feb-2026 10:26:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[24-Feb-2026 10:26:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[24-Feb-2026 10:26:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[24-Feb-2026 10:26:59 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[24-Feb-2026 10:26:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[24-Feb-2026 10:26:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[24-Feb-2026 10:26:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[24-Feb-2026 10:27:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[24-Feb-2026 10:27:32 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[24-Feb-2026 10:27:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[24-Feb-2026 10:27:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[24-Feb-2026 10:27:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[24-Feb-2026 10:29:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[24-Feb-2026 10:29:34 UTC] PHP Notice:  Undefined variable: did in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 135
+[24-Feb-2026 10:29:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136
+[24-Feb-2026 10:29:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 73
+[24-Feb-2026 10:29:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elaeltdc/eltd/jubo48.e-laeltd.com/jubo/admin-panel/modal.php on line 136

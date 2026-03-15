@@ -1,0 +1,60 @@
+.btn {
+	box-shadow: none;
+}
+
+table tr > th {
+	padding: 1rem 0.75rem !important;
+}
+
+table tr > td {
+	padding: 0.5rem 0.75rem !important;
+}
+
+.select2-container--default .select2-results__option[aria-selected="true"]:hover,
+.select2-container--default .select2-results__option[aria-selected="true"] {
+	background: rgb(21, 158, 65, 0.8) !important;
+	color: #fff !important;
+}
+
+#sidebar-menu .mm-active,
+.mm-active .active i,
+.mm-active > a,
+#sidebar-menu .mm-active i,
+.mm-active .active {
+	color: rgb(21, 158, 65, 1) !important;
+}
+
+#sidebar-menu ul li a:hover i,
+#sidebar-menu ul li a:hover {
+	color: rgb(21, 158, 65, 1) !important;
+}
+
+hr {
+	border-color: rgb(21, 158, 65, 1) !important;
+}
+
+input,
+select,
+textarea {
+	border-color: rgb(21, 158, 65, 0.4) !important;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+	border-color: rgb(21, 158, 65, 0.8) !important;
+}
+
+.icon i {
+	border: 2px solid #f0f0f0;
+	border-radius: 4px;
+	width: 64px;
+	height: 64px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.breadcrumb-item.active {
+	color: #fff;
+}

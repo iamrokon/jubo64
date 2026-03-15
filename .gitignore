@@ -1,0 +1,11 @@
+/jubo/vendor/
+/jubo/error_log
+.env
+node_modules/
+npm-debug.log
+yarn-error.log
+.idea
+.vscode
+.DS_Store
+Thumbs.db
+*_images/
