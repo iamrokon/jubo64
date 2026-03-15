@@ -1,4 +1,3 @@
-/jubo/vendor/
 /jubo/error_log
 .env
 node_modules/
