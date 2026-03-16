@@ -413,9 +413,9 @@ body[data-layout="horizontal"] .footer {
 	padding: 0 15px 10px 15px;
 	margin-top: 70px;
 }
-/* .page-content-wrapper {
+.page-content-wrapper {
 	margin-top: -100px;
-} */
+}
 #sidebar-menu {
 	padding: 10px 0 30px 0;
 }
