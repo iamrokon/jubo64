@@ -43,3 +43,4 @@ jobs:
             **/conn*.php
             **/dbconfig*.php
             **/assests/**
+            **/assets/**
