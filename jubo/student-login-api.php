@@ -8,7 +8,7 @@ header("Content-Type: application/json");
 |--------------------------------------------------------------------------
 */
 $JWT_SECRET = "dfkdfgdifh"; // change this
-$JWT_EXPIRE = 60 * 60 * 24; // 24 hours
+$JWT_EXPIRE = 60 * 60 * 24 * 90; // 90 days (3 months)
 
 
 /*
@@ -146,10 +146,12 @@ if ($user['access_level'] != "10") {
 | CREATE JWT TOKEN
 |--------------------------------------------------------------------------
 */
+$expire_at = time() + $JWT_EXPIRE;
+
 $payload = [
     "iss" => "e-laeltd.com",
     "iat" => time(),
-    "exp" => time() + $JWT_EXPIRE,
+    "exp" => $expire_at,
     "user_id" => $user['userid'],
     "email" => $user['email']
 ];
@@ -199,5 +201,6 @@ jsonResponse(true, "Login successful", [
 	"about" => $student_data['about'] ?? null,
     "token" => $token,
     "token_type" => "Bearer",
-    "expires_in" => $JWT_EXPIRE
+    "expires_in" => $JWT_EXPIRE,
+    "expire" => date('Y-m-d H:i:s', $expire_at)
 ]);
