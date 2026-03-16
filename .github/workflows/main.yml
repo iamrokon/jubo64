@@ -1,0 +1,44 @@
+name: FTP Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  ftp-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: FTP Deploy only backend files
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./
+          server-dir: ./
+          exclude: |
+            **/.git*
+            **/.github*
+            **/node_modules/**
+            **/storage/logs/**
+            **/vendor/**
+            **/*_images/**
+            **/*.sql
+            **/*.sqlite
+            **/*.sqlite3
+            **/*.bak
+            **/.env*
+            **/*.log
+            **/error_log
+            **/.idea/**
+            **/.vscode/**
+            **/Thumbs.db
+            **/.DS_Store
+            **/conn.php
+            **/conn*.php
+            **/dbconfig*.php
