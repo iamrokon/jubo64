@@ -44,3 +44,4 @@ jobs:
             **/dbconfig*.php
             **/assests/**
             **/assets/**
+            **/bootstrap/**
