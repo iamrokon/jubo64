@@ -202,5 +202,6 @@ jsonResponse(true, "Login successful", [
     "token" => $token,
     "token_type" => "Bearer",
     "expires_in" => $JWT_EXPIRE,
-    "expire" => date('Y-m-d H:i:s', $expire_at)
+    "expire" => $expire_at,
+    "expire_date" => date("d-m-Y H:i:s", $expire_at)
 ]);
